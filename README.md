@@ -25,23 +25,23 @@ automatically discarding true bat recordings.
 The notebooks were designed for Google Colab and use Google Drive
 for project storage.
 
-Main Python packages:
+Main Python (version 3.12.13) packages:
 
-- numpy
+- numpy (version 2.0.2)
 
-- pandas
+- pandas (version 2.2.3)
 
-- scikit-learn
+- scikit-learn (version 1.6.1)
 
-- librosa
+- librosa (version 0.11.0)
 
-- soundfile
+- soundfile (version 0.14.0)
 
-- matplotlib
+- matplotlib (version 3.10.0)
 
-- joblib
+- joblib (version 1.5.3)
 
-- tqdm
+- tqdm (version 4.67.3)
 
 The training notebook prints the Python, NumPy, pandas, and scikit-learn
 versions so that the computational environment can be documented when
